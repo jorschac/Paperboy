@@ -11,9 +11,9 @@ Scripts auto-load `.env` (or fallback `.env.example`) from the skill directory.
 
 Run scripts with `Bash` subagent in parallel, which means you can generate 3 background subagents to run these scripts all at once:
 
-1. `TODAY_DATE=$(date +%F) && OUT_PATH="../../../reports/${TODAY_DATE}/news_fetch_data" && node scripts/fetch_market_data.js --out "$OUT_PATH"`
-2. `TODAY_DATE=$(date +%F) && OUT_PATH="../../../reports/${TODAY_DATE}/news_fetch_data" && node scripts/fetch_fred_data.js --out "$OUT_PATH"`
-3. `TODAY_DATE=$(date +%F) && OUT_PATH="../../../reports/${TODAY_DATE}/news_fetch_data" && node scripts/fetch_news_sentiment.js --out "$OUT_PATH" --days 7`
+1. `cd /Users/han/codex_projetcs/market_boy/.cursor/skills/news_fetch && TODAY_DATE=$(date +%F) && OUT_PATH="../../../reports/${TODAY_DATE}/news_fetch_data" && node scripts/fetch_market_data.js --out "$OUT_PATH"`
+2. `cd /Users/han/codex_projetcs/market_boy/.cursor/skills/news_fetch && TODAY_DATE=$(date +%F) && OUT_PATH="../../../reports/${TODAY_DATE}/news_fetch_data" && node scripts/fetch_fred_data.js --out "$OUT_PATH"`
+3. `cd /Users/han/codex_projetcs/market_boy/.cursor/skills/news_fetch && TODAY_DATE=$(date +%F) && OUT_PATH="../../../reports/${TODAY_DATE}/news_fetch_data" && node scripts/fetch_news_sentiment.js --out "$OUT_PATH" --days 7`
 
 ### Outputs
 
