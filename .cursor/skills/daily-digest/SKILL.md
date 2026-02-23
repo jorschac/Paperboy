@@ -18,7 +18,7 @@ When the user asks for a daily digest (e.g., "/daily_digest", "generate morning 
 1. **Invoke the Subagent**: Immediately use the Task tool to launch the `daily-market-reporter` subagent.
 2. **Set the Prompt**: Provide a clear prompt to the subagent, such as:
    *"Please generate today's comprehensive market morning report based on the fetched JSON data in the reports directory."*
-3. **Use the Correct Model**: Ensure the subagent is invoked using the most capable model available (e.g., Gemini 3.1 Pro) as required by the subagent's own system prompt.
+3. **Use the Correct Model**: Ensure the subagent is invoked using the most capable model available (Gemini 3.1 Pro) as required by the subagent's own system prompt.
 4. **Deliver the Result**: Once the subagent returns the completed markdown report, present it directly to the user in your response.
 
 ## Example Workflow
