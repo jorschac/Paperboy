@@ -1,0 +1,30 @@
+[
+  {
+    "ts_utc": "2026-02-25T14:33:45.320Z",
+    "series_id": "FEDFUNDS",
+    "value": "3.64",
+    "date": "2026-01-01",
+    "source": "fred"
+  },
+  {
+    "ts_utc": "2026-02-25T14:33:45.753Z",
+    "series_id": "CPIAUCSL",
+    "value": "326.588",
+    "date": "2026-01-01",
+    "source": "fred"
+  },
+  {
+    "ts_utc": "2026-02-25T14:33:46.218Z",
+    "series_id": "UNRATE",
+    "value": "4.3",
+    "date": "2026-01-01",
+    "source": "fred"
+  },
+  {
+    "ts_utc": "2026-02-25T14:33:47.601Z",
+    "series_id": "DGS10",
+    "value": "4.03",
+    "date": "2026-02-23",
+    "source": "fred"
+  }
+]

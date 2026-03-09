@@ -1,0 +1,9 @@
+ts_utc,symbol,asset_class,price,change_pct,change,volume,high,low,previous_close,source
+2026-02-25T14:33:33.407Z,AAPL,equity,272.1400,2.2391%,5.9600,47014619,274.8900,267.7100,266.1800,alpha_vantage
+2026-02-25T14:33:33.407Z,MSFT,equity,,,,,,,,alpha_vantage
+2026-02-25T14:33:33.407Z,NVDA,equity,,,,,,,,alpha_vantage
+2026-02-25T14:33:33.407Z,AMZN,equity,,,,,,,,alpha_vantage
+2026-02-25T14:33:33.407Z,GOOGL,equity,310.9000,-0.1894%,-0.5900,25615646,312.2700,305.9300,311.4900,alpha_vantage
+2026-02-25T14:33:33.407Z,META,equity,,,,,,,,alpha_vantage
+2026-02-25T14:33:33.407Z,TSLA,equity,,,,,,,,alpha_vantage
+2026-02-25T14:33:33.407Z,XAUUSD,metal,,,,,,,,alpha_vantage
