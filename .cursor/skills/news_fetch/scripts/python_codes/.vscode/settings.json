@@ -1,0 +1,4 @@
+{
+  "python.defaultInterpreterPath": "/Users/han/codex_projetcs/market_boy/.cursor/skills/news_fetch/scripts/python_codes/.venv/bin/python",
+  "python.analysis.extraPaths": ["/Users/han/codex_projetcs/market_boy/.cursor/skills/news_fetch/scripts/python_codes/.venv/lib/python3.14/site-packages"]
+}

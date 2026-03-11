@@ -13,7 +13,7 @@ async function main() {
   await loadLocalEnv();
   const args = parseArgs(process.argv);
   const outDir = args.out || "data";
-  const days = Number(args.days || 7);
+  const days = Number(args.days || 1);
 
   const apiKey = requireEnv("ALPHAVANTAGE_API_KEY");
   const symbols = splitCsvEnv(

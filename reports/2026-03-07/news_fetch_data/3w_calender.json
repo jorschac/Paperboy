@@ -1,0 +1,1955 @@
+[
+  {
+    "event_time_utc": "2026-03-01T07:00:00.000Z",
+    "currency": "EUR",
+    "event": "German Buba President Nagel Speaks",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-01T16:00:00.000Z",
+    "currency": "AUD",
+    "event": "MI Inflation Gauge m/m",
+    "actual": "-0.2%",
+    "previous": "0.2%",
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-01T16:30:00.000Z",
+    "currency": "AUD",
+    "event": "ANZ Job Advertisements m/m",
+    "actual": "3.2%",
+    "previous": "5.2%",
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "AUD",
+    "event": "Company Operating Profits q/q",
+    "actual": "5.8%",
+    "previous": "1.5%",
+    "consensus": "1.8%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "JPY",
+    "event": "Final Manufacturing PMI",
+    "actual": "53.0",
+    "previous": "52.8",
+    "consensus": "52.8",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-01T21:30:00.000Z",
+    "currency": "AUD",
+    "event": "Commodity Prices y/y",
+    "actual": "3.4%",
+    "previous": "2.8%",
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-01T23:00:00.000Z",
+    "currency": "EUR",
+    "event": "German Retail Sales m/m",
+    "actual": "-0.9%",
+    "previous": "1.2%",
+    "consensus": "0.0%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "GBP",
+    "event": "Nationwide HPI m/m",
+    "actual": "0.3%",
+    "previous": "0.3%",
+    "consensus": "0.2%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-01T23:30:00.000Z",
+    "currency": "CHF",
+    "event": "Retail Sales y/y",
+    "actual": "-1.1%",
+    "previous": "2.8%",
+    "consensus": "2.7%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-02T00:15:00.000Z",
+    "currency": "EUR",
+    "event": "Spanish Manufacturing PMI",
+    "actual": "50.0",
+    "previous": "49.2",
+    "consensus": "49.9",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-02T00:30:00.000Z",
+    "currency": "CHF",
+    "event": "Manufacturing PMI",
+    "actual": "47.4",
+    "previous": "48.8",
+    "consensus": "49.8",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-02T00:45:00.000Z",
+    "currency": "EUR",
+    "event": "Italian Manufacturing PMI",
+    "actual": "50.6",
+    "previous": "48.1",
+    "consensus": "49.1",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-02T00:50:00.000Z",
+    "currency": "EUR",
+    "event": "French Final Manufacturing PMI",
+    "actual": "50.1",
+    "previous": "49.9",
+    "consensus": "49.9",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-02T00:55:00.000Z",
+    "currency": "EUR",
+    "event": "German Final Manufacturing PMI",
+    "actual": "50.9",
+    "previous": "50.7",
+    "consensus": "50.7",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-02T01:00:00.000Z",
+    "currency": "EUR",
+    "event": "Final Manufacturing PMI",
+    "actual": "50.8",
+    "previous": "50.8",
+    "consensus": "50.8",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-02T01:30:00.000Z",
+    "currency": "GBP",
+    "event": "Final Manufacturing PMI",
+    "actual": "51.7",
+    "previous": "52.0",
+    "consensus": "52.0",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "GBP",
+    "event": "M4 Money Supply m/m",
+    "actual": "-0.1%",
+    "previous": "0.4%",
+    "consensus": "0.2%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "GBP",
+    "event": "Mortgage Approvals",
+    "actual": "60K",
+    "previous": "61K",
+    "consensus": "62K",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "GBP",
+    "event": "Net Lending to Individuals m/m",
+    "actual": "5.9B",
+    "previous": "6.1B",
+    "consensus": "6.2B",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-02T04:30:00.000Z",
+    "currency": "AUD",
+    "event": "RBA Assist Gov Hunter Speaks",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "GBP",
+    "event": "MPC Member Taylor Speaks",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-02T06:00:00.000Z",
+    "currency": "CAD",
+    "event": "Gov Council Member Kozicki Speaks",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "EUR",
+    "event": "ECB President Lagarde Speaks",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-02T06:10:00.000Z",
+    "currency": "EUR",
+    "event": "German Buba President Nagel Speaks",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-02T06:30:00.000Z",
+    "currency": "CAD",
+    "event": "Manufacturing PMI",
+    "actual": "51.0",
+    "previous": "50.4",
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-02T06:45:00.000Z",
+    "currency": "USD",
+    "event": "Final Manufacturing PMI",
+    "actual": "51.6",
+    "previous": "51.2",
+    "consensus": "51.2",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-02T07:00:00.000Z",
+    "currency": "USD",
+    "event": "ISM Manufacturing PMI",
+    "actual": "52.4",
+    "previous": "52.6",
+    "consensus": "51.7",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "ISM Manufacturing Prices",
+    "actual": "70.5",
+    "previous": "59.0",
+    "consensus": "60.6",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-02T07:30:00.000Z",
+    "currency": "GBP",
+    "event": "MPC Member Ramsden Speaks",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-08T15:30:00.000Z",
+    "currency": "JPY",
+    "event": "Average Cash Earnings y/y",
+    "actual": null,
+    "previous": "2.4%",
+    "consensus": "2.5%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-08T15:50:00.000Z",
+    "currency": "JPY",
+    "event": "Bank Lending y/y",
+    "actual": null,
+    "previous": "4.5%",
+    "consensus": "4.4%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "JPY",
+    "event": "Current Account",
+    "actual": null,
+    "previous": "2.70T",
+    "consensus": "3.19T",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-08T17:30:00.000Z",
+    "currency": "CNY",
+    "event": "CPI y/y",
+    "actual": null,
+    "previous": "0.2%",
+    "consensus": "0.9%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "CNY",
+    "event": "PPI y/y",
+    "actual": null,
+    "previous": "-1.4%",
+    "consensus": "-1.1%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-08T21:00:00.000Z",
+    "currency": "JPY",
+    "event": "Leading Indicators",
+    "actual": null,
+    "previous": "111.0%",
+    "consensus": "113.0%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-08T22:00:00.000Z",
+    "currency": "JPY",
+    "event": "Economy Watchers Sentiment",
+    "actual": null,
+    "previous": "47.6",
+    "consensus": "48.1",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-08T23:00:00.000Z",
+    "currency": "EUR",
+    "event": "German Factory Orders m/m",
+    "actual": null,
+    "previous": "7.8%",
+    "consensus": "-4.2%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "EUR",
+    "event": "German Industrial Production m/m",
+    "actual": null,
+    "previous": "-1.9%",
+    "consensus": "1.0%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-09T00:00:00.000Z",
+    "currency": "CHF",
+    "event": "SECO Consumer Climate",
+    "actual": null,
+    "previous": "-30",
+    "consensus": "-29",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-09T01:30:00.000Z",
+    "currency": "EUR",
+    "event": "Sentix Investor Confidence",
+    "actual": null,
+    "previous": "4.2",
+    "consensus": "-3.1",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "EUR",
+    "event": "Eurogroup Meetings",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-09T15:30:00.000Z",
+    "currency": "AUD",
+    "event": "Westpac Consumer Sentiment",
+    "actual": null,
+    "previous": "-2.6%",
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "JPY",
+    "event": "Household Spending y/y",
+    "actual": null,
+    "previous": "-2.6%",
+    "consensus": "2.3%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-09T15:50:00.000Z",
+    "currency": "JPY",
+    "event": "Final GDP Price Index y/y",
+    "actual": null,
+    "previous": "3.4%",
+    "consensus": "3.4%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "JPY",
+    "event": "Final GDP q/q",
+    "actual": null,
+    "previous": "0.1%",
+    "consensus": "0.3%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "JPY",
+    "event": "M2 Money Stock y/y",
+    "actual": null,
+    "previous": "1.6%",
+    "consensus": "1.5%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-09T16:01:00.000Z",
+    "currency": "GBP",
+    "event": "BRC Retail Sales Monitor y/y",
+    "actual": null,
+    "previous": "2.3%",
+    "consensus": "2.1%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-09T16:30:00.000Z",
+    "currency": "AUD",
+    "event": "NAB Business Confidence",
+    "actual": null,
+    "previous": "3",
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "CNY",
+    "event": "Trade Balance",
+    "actual": null,
+    "previous": "809B",
+    "consensus": "950B",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "CNY",
+    "event": "USD-Denominated Trade Balance",
+    "actual": null,
+    "previous": "114.1B",
+    "consensus": "175.0B",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-09T22:00:00.000Z",
+    "currency": "JPY",
+    "event": "Prelim Machine Tool Orders y/y",
+    "actual": null,
+    "previous": "25.3%",
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-09T23:00:00.000Z",
+    "currency": "EUR",
+    "event": "German Trade Balance",
+    "actual": null,
+    "previous": "17.1B",
+    "consensus": "15.6B",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-09T23:45:00.000Z",
+    "currency": "EUR",
+    "event": "French Trade Balance",
+    "actual": null,
+    "previous": "-4.8B",
+    "consensus": "-4.6B",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "CNY",
+    "event": "M2 Money Supply y/y",
+    "actual": null,
+    "previous": "9.0%",
+    "consensus": "8.9%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "CNY",
+    "event": "New Loans",
+    "actual": null,
+    "previous": "4710B",
+    "consensus": "890B",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "EUR",
+    "event": "ECOFIN Meetings",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-10T02:00:00.000Z",
+    "currency": "USD",
+    "event": "NFIB Small Business Index",
+    "actual": null,
+    "previous": "99.3",
+    "consensus": "99.8",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-10T04:15:00.000Z",
+    "currency": "USD",
+    "event": "ADP Weekly Employment Change",
+    "actual": null,
+    "previous": "12.8K",
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-10T06:00:00.000Z",
+    "currency": "USD",
+    "event": "Existing Home Sales",
+    "actual": null,
+    "previous": "3.91M",
+    "consensus": "3.89M",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-10T12:30:00.000Z",
+    "currency": "USD",
+    "event": "API Weekly Statistical Bulletin",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-10T15:50:00.000Z",
+    "currency": "JPY",
+    "event": "PPI y/y",
+    "actual": null,
+    "previous": "2.3%",
+    "consensus": "2.2%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-10T23:00:00.000Z",
+    "currency": "EUR",
+    "event": "German Final CPI m/m",
+    "actual": null,
+    "previous": "0.2%",
+    "consensus": "0.2%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "EUR",
+    "event": "German 10-y Bond Auction",
+    "actual": null,
+    "previous": "2.73|1.5",
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-11T04:30:00.000Z",
+    "currency": "USD",
+    "event": "Core CPI m/m",
+    "actual": null,
+    "previous": "0.3%",
+    "consensus": "0.2%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "CPI m/m",
+    "actual": null,
+    "previous": "0.2%",
+    "consensus": "0.3%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "CPI y/y",
+    "actual": null,
+    "previous": "2.4%",
+    "consensus": "2.5%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "FOMC Member Bowman Speaks",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-11T06:30:00.000Z",
+    "currency": "USD",
+    "event": "Crude Oil Inventories",
+    "actual": null,
+    "previous": "3.5M",
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-11T09:01:00.000Z",
+    "currency": "USD",
+    "event": "10-y Bond Auction",
+    "actual": null,
+    "previous": "4.18|2.4",
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-11T10:00:00.000Z",
+    "currency": "USD",
+    "event": "Federal Budget Balance",
+    "actual": null,
+    "previous": "-94.6B",
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-11T13:45:00.000Z",
+    "currency": "NZD",
+    "event": "Manufacturing Sales q/q",
+    "actual": null,
+    "previous": "2.7%",
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-11T15:50:00.000Z",
+    "currency": "JPY",
+    "event": "BSI Manufacturing Index",
+    "actual": null,
+    "previous": "4.7",
+    "consensus": "5.5",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-11T16:00:00.000Z",
+    "currency": "AUD",
+    "event": "MI Inflation Expectations",
+    "actual": null,
+    "previous": "5.0%",
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-11T16:01:00.000Z",
+    "currency": "GBP",
+    "event": "RICS House Price Balance",
+    "actual": null,
+    "previous": "-10%",
+    "consensus": "-9%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-12T01:00:00.000Z",
+    "currency": "EUR",
+    "event": "Italian Quarterly Unemployment Rate",
+    "actual": null,
+    "previous": "6.1%",
+    "consensus": "6.1%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-12T01:30:00.000Z",
+    "currency": "GBP",
+    "event": "BOE Gov Bailey Speaks",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "EUR",
+    "event": "Italian 10-y Bond Auction",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-12T04:30:00.000Z",
+    "currency": "CAD",
+    "event": "Building Permits m/m",
+    "actual": null,
+    "previous": "6.8%",
+    "consensus": "-0.6%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "CAD",
+    "event": "Trade Balance",
+    "actual": null,
+    "previous": "-1.3B",
+    "consensus": "-1.2B",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "CAD",
+    "event": "Wholesale Sales m/m",
+    "actual": null,
+    "previous": "2.0%",
+    "consensus": "-0.6%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "Unemployment Claims",
+    "actual": null,
+    "previous": "213K",
+    "consensus": "216K",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "Building Permits",
+    "actual": null,
+    "previous": "1.45M",
+    "consensus": "1.41M",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "Housing Starts",
+    "actual": null,
+    "previous": "1.40M",
+    "consensus": "1.34M",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "Trade Balance",
+    "actual": null,
+    "previous": "-70.3B",
+    "consensus": "-66.1B",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-12T05:30:00.000Z",
+    "currency": "GBP",
+    "event": "CB Leading Index m/m",
+    "actual": null,
+    "previous": "0.0%",
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-12T06:30:00.000Z",
+    "currency": "USD",
+    "event": "Natural Gas Storage",
+    "actual": null,
+    "previous": "-132B",
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-12T07:00:00.000Z",
+    "currency": "USD",
+    "event": "FOMC Member Bowman Speaks",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-12T09:01:00.000Z",
+    "currency": "USD",
+    "event": "30-y Bond Auction",
+    "actual": null,
+    "previous": "4.75|2.7",
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-12T13:30:00.000Z",
+    "currency": "NZD",
+    "event": "BusinessNZ Manufacturing Index",
+    "actual": null,
+    "previous": "55.2",
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-12T13:45:00.000Z",
+    "currency": "NZD",
+    "event": "Visitor Arrivals m/m",
+    "actual": null,
+    "previous": "1.7%",
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "AUD",
+    "event": "NAB Quarterly Business Confidence",
+    "actual": null,
+    "previous": "2",
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-12T23:00:00.000Z",
+    "currency": "EUR",
+    "event": "German WPI m/m",
+    "actual": null,
+    "previous": "0.9%",
+    "consensus": "0.4%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "GBP",
+    "event": "GDP m/m",
+    "actual": null,
+    "previous": "0.1%",
+    "consensus": "0.2%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "GBP",
+    "event": "Construction Output m/m",
+    "actual": null,
+    "previous": "-0.5%",
+    "consensus": "0.0%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "GBP",
+    "event": "Goods Trade Balance",
+    "actual": null,
+    "previous": "-22.7B",
+    "consensus": "-22.1B",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "GBP",
+    "event": "Index of Services 3m/3m",
+    "actual": null,
+    "previous": "0.0%",
+    "consensus": "0.3%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "GBP",
+    "event": "Industrial Production m/m",
+    "actual": null,
+    "previous": "-0.9%",
+    "consensus": "0.3%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "GBP",
+    "event": "Manufacturing Production m/m",
+    "actual": null,
+    "previous": "-0.5%",
+    "consensus": "0.3%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-12T23:45:00.000Z",
+    "currency": "EUR",
+    "event": "French Final CPI m/m",
+    "actual": null,
+    "previous": "0.7%",
+    "consensus": "0.7%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-13T01:00:00.000Z",
+    "currency": "EUR",
+    "event": "Italian Industrial Production m/m",
+    "actual": null,
+    "previous": "-0.4%",
+    "consensus": "0.4%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-13T01:30:00.000Z",
+    "currency": "GBP",
+    "event": "Consumer Inflation Expectations",
+    "actual": null,
+    "previous": "3.5%",
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-13T02:00:00.000Z",
+    "currency": "EUR",
+    "event": "Industrial Production m/m",
+    "actual": null,
+    "previous": "-1.4%",
+    "consensus": "0.5%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-13T04:30:00.000Z",
+    "currency": "CAD",
+    "event": "Employment Change",
+    "actual": null,
+    "previous": "-24.8K",
+    "consensus": "11.1K",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "CAD",
+    "event": "Unemployment Rate",
+    "actual": null,
+    "previous": "6.5%",
+    "consensus": "6.6%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "CAD",
+    "event": "Capacity Utilization Rate",
+    "actual": null,
+    "previous": "78.5%",
+    "consensus": "78.4%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "CAD",
+    "event": "Manufacturing Sales m/m",
+    "actual": null,
+    "previous": "0.6%",
+    "consensus": "-3.2%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "Core PCE Price Index m/m",
+    "actual": null,
+    "previous": "0.4%",
+    "consensus": "0.4%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "Prelim GDP q/q",
+    "actual": null,
+    "previous": "1.4%",
+    "consensus": "1.4%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "Core Durable Goods Orders m/m",
+    "actual": null,
+    "previous": "1.0%",
+    "consensus": "0.4%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "Durable Goods Orders m/m",
+    "actual": null,
+    "previous": "-1.4%",
+    "consensus": "0.5%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "Prelim GDP Price Index q/q",
+    "actual": null,
+    "previous": "3.6%",
+    "consensus": "3.6%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "Personal Income m/m",
+    "actual": null,
+    "previous": "0.3%",
+    "consensus": "0.4%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "Personal Spending m/m",
+    "actual": null,
+    "previous": "0.4%",
+    "consensus": "0.3%",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-13T06:00:00.000Z",
+    "currency": "USD",
+    "event": "JOLTS Job Openings",
+    "actual": null,
+    "previous": "6.54M",
+    "consensus": "6.84M",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "Prelim UoM Consumer Sentiment",
+    "actual": null,
+    "previous": "56.6",
+    "consensus": "55.9",
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "Prelim UoM Inflation Expectations",
+    "actual": null,
+    "previous": "3.4%",
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-15T13:30:00.000Z",
+    "currency": "NZD",
+    "event": "BusinessNZ Services Index",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-15T16:01:00.000Z",
+    "currency": "GBP",
+    "event": "Rightmove HPI m/m",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-15T17:30:00.000Z",
+    "currency": "CNY",
+    "event": "New Home Prices m/m",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-15T18:00:00.000Z",
+    "currency": "CNY",
+    "event": "Fixed Asset Investment ytd/y",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "CNY",
+    "event": "Industrial Production y/y",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "CNY",
+    "event": "NBS Press Conference",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "CNY",
+    "event": "Retail Sales y/y",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "CNY",
+    "event": "Unemployment Rate",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "GBP",
+    "event": "30-y Bond Auction",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-16T03:00:00.000Z",
+    "currency": "EUR",
+    "event": "German Buba Monthly Report",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-16T04:15:00.000Z",
+    "currency": "CAD",
+    "event": "Housing Starts",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-16T04:30:00.000Z",
+    "currency": "CAD",
+    "event": "CPI m/m",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "CAD",
+    "event": "Median CPI y/y",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "CAD",
+    "event": "Trimmed CPI y/y",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "CAD",
+    "event": "Common CPI y/y",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "CAD",
+    "event": "Core CPI m/m",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "Empire State Manufacturing Index",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-16T05:15:00.000Z",
+    "currency": "USD",
+    "event": "Capacity Utilization Rate",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "Industrial Production m/m",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-16T06:00:00.000Z",
+    "currency": "USD",
+    "event": "NAHB Housing Market Index",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-16T13:45:00.000Z",
+    "currency": "NZD",
+    "event": "FPI m/m",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-16T19:30:00.000Z",
+    "currency": "AUD",
+    "event": "Cash Rate",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "AUD",
+    "event": "RBA Rate Statement",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-16T20:30:00.000Z",
+    "currency": "AUD",
+    "event": "RBA Press Conference",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "JPY",
+    "event": "Tertiary Industry Activity m/m",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-16T23:30:00.000Z",
+    "currency": "CHF",
+    "event": "PPI m/m",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-17T02:00:00.000Z",
+    "currency": "EUR",
+    "event": "German ZEW Economic Sentiment",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "EUR",
+    "event": "ZEW Economic Sentiment",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-17T04:15:00.000Z",
+    "currency": "USD",
+    "event": "ADP Weekly Employment Change",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-17T06:00:00.000Z",
+    "currency": "USD",
+    "event": "Pending Home Sales m/m",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-17T06:30:00.000Z",
+    "currency": "AUD",
+    "event": "CB Leading Index m/m",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "NZD",
+    "event": "GDT Price Index",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-17T12:30:00.000Z",
+    "currency": "USD",
+    "event": "API Weekly Statistical Bulletin",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-17T13:45:00.000Z",
+    "currency": "NZD",
+    "event": "Current Account",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-17T15:30:00.000Z",
+    "currency": "AUD",
+    "event": "MI Leading Index m/m",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-17T15:50:00.000Z",
+    "currency": "JPY",
+    "event": "Trade Balance",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-18T00:00:00.000Z",
+    "currency": "CHF",
+    "event": "SECO Economic Forecasts",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-18T02:00:00.000Z",
+    "currency": "EUR",
+    "event": "Final Core CPI y/y",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "EUR",
+    "event": "Final CPI y/y",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "GBP",
+    "event": "10-y Bond Auction",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "EUR",
+    "event": "German 30-y Bond Auction",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-18T04:30:00.000Z",
+    "currency": "CAD",
+    "event": "Foreign Securities Purchases",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "Core PPI m/m",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "PPI m/m",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-18T05:45:00.000Z",
+    "currency": "CAD",
+    "event": "BOC Rate Statement",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "CAD",
+    "event": "Overnight Rate",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-18T06:00:00.000Z",
+    "currency": "USD",
+    "event": "Factory Orders m/m",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-18T06:30:00.000Z",
+    "currency": "CAD",
+    "event": "BOC Press Conference",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "Crude Oil Inventories",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-18T10:00:00.000Z",
+    "currency": "USD",
+    "event": "Federal Funds Rate",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "FOMC Economic Projections",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "FOMC Statement",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-18T10:30:00.000Z",
+    "currency": "USD",
+    "event": "FOMC Press Conference",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-18T12:00:00.000Z",
+    "currency": "NZD",
+    "event": "Westpac Consumer Sentiment",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "TIC Long-Term Purchases",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-18T13:45:00.000Z",
+    "currency": "NZD",
+    "event": "GDP q/q",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-18T15:50:00.000Z",
+    "currency": "JPY",
+    "event": "Core Machinery Orders m/m",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-18T16:30:00.000Z",
+    "currency": "AUD",
+    "event": "Employment Change",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "AUD",
+    "event": "Unemployment Rate",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "AUD",
+    "event": "RBA Financial Stability Review",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "JPY",
+    "event": "BOJ Policy Rate",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "JPY",
+    "event": "Monetary Policy Statement",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-18T20:30:00.000Z",
+    "currency": "JPY",
+    "event": "Revised Industrial Production m/m",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "JPY",
+    "event": "BOJ Press Conference",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-18T23:00:00.000Z",
+    "currency": "GBP",
+    "event": "Claimant Count Change",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "GBP",
+    "event": "Average Earnings Index 3m/y",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "GBP",
+    "event": "Unemployment Rate",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "CNY",
+    "event": "Foreign Direct Investment ytd/y",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-19T00:30:00.000Z",
+    "currency": "CHF",
+    "event": "SNB Monetary Policy Assessment",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "CHF",
+    "event": "SNB Policy Rate",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-19T01:00:00.000Z",
+    "currency": "CHF",
+    "event": "SNB Press Conference",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "EUR",
+    "event": "Spanish 10-y Bond Auction",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-19T03:00:00.000Z",
+    "currency": "GBP",
+    "event": "CBI Industrial Order Expectations",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-19T04:00:00.000Z",
+    "currency": "GBP",
+    "event": "Monetary Policy Summary",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "GBP",
+    "event": "MPC Official Bank Rate Votes",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "GBP",
+    "event": "Official Bank Rate",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-19T04:30:00.000Z",
+    "currency": "USD",
+    "event": "Unemployment Claims",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "Philly Fed Manufacturing Index",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-19T05:15:00.000Z",
+    "currency": "EUR",
+    "event": "Main Refinancing Rate",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "EUR",
+    "event": "Monetary Policy Statement",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-19T05:45:00.000Z",
+    "currency": "EUR",
+    "event": "ECB Press Conference",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-19T06:00:00.000Z",
+    "currency": "USD",
+    "event": "New Home Sales",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "CB Leading Index m/m",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "Final Wholesale Inventories m/m",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-19T06:30:00.000Z",
+    "currency": "USD",
+    "event": "Natural Gas Storage",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-19T13:45:00.000Z",
+    "currency": "NZD",
+    "event": "Trade Balance",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-19T17:00:00.000Z",
+    "currency": "CNY",
+    "event": "1-y Loan Prime Rate",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "CNY",
+    "event": "5-y Loan Prime Rate",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-19T18:00:00.000Z",
+    "currency": "NZD",
+    "event": "Credit Card Spending y/y",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-19T23:00:00.000Z",
+    "currency": "EUR",
+    "event": "German PPI m/m",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "GBP",
+    "event": "Public Sector Net Borrowing",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-20T01:00:00.000Z",
+    "currency": "EUR",
+    "event": "Current Account",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "EUR",
+    "event": "Italian Trade Balance",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-20T02:00:00.000Z",
+    "currency": "EUR",
+    "event": "Trade Balance",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "EUR",
+    "event": "Euro Summit",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": "2026-03-20T04:30:00.000Z",
+    "currency": "CAD",
+    "event": "Core Retail Sales m/m",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "CAD",
+    "event": "Retail Sales m/m",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "CAD",
+    "event": "IPPI m/m",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "CAD",
+    "event": "NHPI m/m",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "CAD",
+    "event": "RMPI m/m",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  },
+  {
+    "event_time_utc": null,
+    "currency": "USD",
+    "event": "Fed Monetary Policy Report",
+    "actual": null,
+    "previous": null,
+    "consensus": null,
+    "source": "forexfactory.com"
+  }
+]
